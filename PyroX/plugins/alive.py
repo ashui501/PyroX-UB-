@@ -28,7 +28,7 @@ async def alive():
 
 ㅤ╔══════💫✨💫═════╗
 ¹┃ㅤ{random.choice(EMOTES)} s ᴛ ᴀ ᴛ ᴜ s ➫ {dbhealth}
-²┃ㅤ{random.choice(EMOTES)} ᴋᴀᴛsᴜᴋɪ   ʙ ᴏ ᴛ ➫ {katsuki}
+²┃ㅤ{random.choice(EMOTES)} 𝚕𝚘𝚟𝚎𝚕𝚢   ʙ ᴏ ᴛ ➫ {lovely}
 ³┃ㅤ{random.choice(EMOTES)} ᴜ ᴘ ᴛ ɪ ᴍ ᴇ ➫ {uptime}
 ⁴┃ㅤ{random.choice(EMOTES)} ᴘ ɪ ɴ ɢ ➫ {ping_time} ms
 ⁵┃ㅤ{random.choice(EMOTES)} ᴘ ʏ ᴛ ʜ ᴏ ɴ ➫ {pyrover}
