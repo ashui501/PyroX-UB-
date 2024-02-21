@@ -7,7 +7,7 @@ collection = cli["PyroX"]["pmpermit"]
 
 PMPERMIT_MESSAGE = (
     "`Ok! Stop Right there Read this first before sending any new messages.\n\n`"
-    "`I'm a bot Protecting this user's PM from any kind of Spam.`"
+    "`to my master im a  bot Protecting this masters PM from any kind of Spam.`"
     "`Please wait for my Master to come back Online.\n\n`"
     "`Until then, Don't spam, Or you'll get blocked and reported!`"
 )
